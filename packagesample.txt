@@ -1,0 +1,34 @@
+<a 
+	href="https://store.steampowered.com/sub/18252/?snr=1_241_4_indie_104_13" 
+	class="tab_item  " 
+	data-ds-packageid="18252" 
+	data-ds-appid="202200,214150" 
+	data-ds-itemkey="Sub_18252" 
+	data-ds-tagids="[9,1670,1755,1677,3942,492,1741]" 
+	data-ds-crtrids="[28974,36300545]" 
+	onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;sub&quot;,&quot;id&quot;:18252,&quot;params&quot;:{&quot;bDisableHover&quot;:false},&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )">
+
+		<div class="tab_item_cap">
+			<img class="tab_item_cap_img" src="https://steamcdn-a.akamaihd.net/steam/subs/18252/capsule_184x69.jpg?t=1452696084">
+		</div>
+		<div 
+			class="discount_block tab_item_discount no_discount" 
+			data-price-final="2499">
+
+			<div class="discount_prices">
+				<div class="discount_final_price">24,99€</div>
+			</div>
+		</div>		
+		<div class="tab_item_content">
+			<div class="tab_item_name">Galactic Civilizations I and II Pack</div>
+			<div class="tab_item_details">
+				<span class="platform_img win"></span>				
+				<div class="tab_item_top_tags">
+					<span class="top_tag">Стратегия</span>
+					<span class="top_tag">, 4X</span>
+					<span class="top_tag">, Космос</span>
+					<span class="top_tag">, Пошаговая</span></div>
+			</div>
+		</div>
+		<div style="clear: both;"></div>
+	</a>

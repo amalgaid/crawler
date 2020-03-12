@@ -1,0 +1,74 @@
+<a 
+	href="https://store.steampowered.com/bundle/3748/Darkest_Dungeon_Ancestral_Edition/?snr=1_241_4_indie_104_2" 
+	class="tab_item  " 
+	data-ds-bundleid="3748" 
+	data-ds-bundle-data="{
+		m_nDiscountPct : 10, 
+		m_bMustPurchaseAsSet :0, 
+		m_rgItems :[
+			{m_nPackageID :33877, 
+			m_rgIncludedAppIDs :[262060], 
+			m_bPackageDiscounted :true, 
+			m_nBasePriceInCents :2299, 
+			m_nFinalPriceInCents :689, 
+			m_nFinalPriceWithBundleDiscount :620},
+			{m_nPackageID :59210, 
+			m_rgIncludedAppIDs :[345800], 
+			m_bPackageDiscounted :true, 
+			m_nBasePriceInCents :999, 
+			m_nFinalPriceInCents :299, 
+			m_nFinalPriceWithBundleDiscount :269},
+			{ m_nPackageID :148671, 
+			m_rgIncludedAppIDs :[580100], 
+			m_bPackageDiscounted :true, 
+			m_nBasePriceInCents :999, 
+			m_nFinalPriceInCents :499, 
+			m_nFinalPriceWithBundleDiscount :449},
+			{ m_nPackageID :202501, 
+			m_rgIncludedAppIDs :[702540], 
+			m_bPackageDiscounted :true, 
+			m_nBasePriceInCents :399, 
+			m_nFinalPriceInCents :199, 
+			m_nFinalPriceWithBundleDiscount :179},
+			{ m_nPackageID :214929, 
+			m_rgIncludedAppIDs :[735730], 
+			m_bPackageDiscounted :false, 
+			m_nBasePriceInCents :499, 
+			m_nFinalPriceInCents :499, 
+			m_nFinalPriceWithBundleDiscount :449}], 
+		m_bIsCommercial :false, 
+		m_bRestrictGifting :true}" 
+	data-ds-itemkey="Bundle_3748" 
+	data-ds-tagids="[122,9,492,7432,4325,1720,4026]" 
+	data-ds-crtrids="[32946145]" 
+	onmouseover="GameHover( this, event, 'global_hover', { type : bundle , id :3748, params :{ bDisableHover :false}, public :1, v6 :1} );" onmouseout="HideGameHover( this, event, 'global_hover' )">
+		<div class="tab_item_cap">
+			<img class="tab_item_cap_img" src="https://steamcdn-a.akamaihd.net/steam/bundles/3748/v1g01fyj0iqwkruj/capsule_184x69.jpg?t=1529426570">
+		</div>
+		<div 
+			class="discount_block tab_item_discount" 
+			data-price-final="1966">
+
+			<div class="bundle_base_discount">-10%</div>
+			<div class="discount_pct">-62%</div>
+			<div class="discount_prices">
+				<div class="discount_original_price">51,95€</div>
+				<div class="discount_final_price">19,66€</div>
+			</div>
+		</div>		
+		<div class="tab_item_content">
+			<div class="tab_item_name">Darkest Dungeon®: Ancestral Edition</div>
+			<div class="tab_item_details">
+				<span class="platform_img win"></span>
+				<span class="platform_img mac"></span>
+				<span class="platform_img linux"></span>
+				<div class="tab_item_top_tags">
+					<span class="top_tag">Ролевая игра</span>
+					<span class="top_tag">, Стратегия</span>
+					<span class="top_tag">, Инди</span>
+					<span class="top_tag">, Лавкрафт</span>
+				</div>
+			</div>
+		</div>
+		<div style="clear: both;"></div>
+	</a>
